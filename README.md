@@ -1,2 +1,2 @@
-# ScenicSpotTicketSystem
-ScenicSpotTicketSystem
+项目配置管理员
+项目配置管理员修改/其他人只读
